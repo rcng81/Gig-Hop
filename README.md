@@ -18,9 +18,6 @@
 
 ## Product Backlog
 [Requirements Discovery](https://docs.google.com/document/d/1dGmEFJ2TbkrRRJC1VEGSTD0ioyp_gakQRmK11PeA46I/edit?usp=sharing)
-
-[Product Backlog Validation](https://docs.google.com/document/d/16Jmh0t4OhNSVGevsdnWJ6ptjIhRSr09SVP3ZZZyOa0o/edit?usp=sharing)
-
 [Product Backlog](https://docs.google.com/spreadsheets/d/1jzOQEqtOU6XXM_vmRGi3yjbNcCunJiUf9Ptom7j_Zew/edit?usp=sharing)
 ## Architecture & Design
 [Architecture & Design](https://docs.google.com/document/d/1k-XGUhECMV3y_P04J2zxacRSCfAFjJ377ALLKVtha0Y/edit?usp=sharing)
